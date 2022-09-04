@@ -23,3 +23,27 @@ const sayHi = name => {
   console.log(`Hi ${name}. ${message}`);
 };
 ```
+
+## Work experience
+System administrator in Republican regulatory research center
+
+February 2019 - October 2021
+
+* Technical support and user assistance.
+* Installation, configuration and updating of office and
+application software.
+* Ensuring the health and safety of the company network.
+* Diagnostics and Troubleshooting of Hardware/System
+Problems.
+
+## Education
+* University: Belarusian State University of Informatics and Radioelectronics  
+Computing machines, systems and networks  
+2016-2021  
+* Courses:  
+  * [HTML/CSS](https://www.udemy.com/course/webdeveloper/) (in process)  
+  * [JavaScript](https://www.udemy.com/course/front-end-javascript-react-redux/) (in process)
+
+## Languages
+* Russian - Native
+* English - Pre-Intermediate (A2)
