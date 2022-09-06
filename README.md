@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SBavia.github.io/rsschool-cv/
